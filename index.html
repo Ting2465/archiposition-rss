@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>有方空间 RSS Feed</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+           max-width: 720px; margin: 60px auto; padding: 0 24px; line-height: 1.6; color: #222; }
+    h1 { font-size: 1.8em; }
+    .feed-url { background: #f4f4f5; padding: 12px 16px; border-radius: 6px; font-family: Menlo, Consolas, monospace;
+                word-break: break-all; }
+    .btn { display: inline-block; margin: 8px 8px 0 0; padding: 10px 18px; background: #0070f3;
+           color: white; text-decoration: none; border-radius: 6px; font-size: 0.95em; }
+    .btn:hover { background: #0050b3; }
+    .meta { color: #666; font-size: 0.9em; margin-top: 40px; border-top: 1px solid #eee; padding-top: 20px; }
+    code { background: #f4f4f5; padding: 2px 6px; border-radius: 3px; font-family: Menlo, Consolas, monospace; font-size: 0.95em; }
+  </style>
+</head>
+<body>
+  <h1>有方空间 RSS Feed</h1>
+
+  <p>本仓库自动抓取 <a href="https://www.archiposition.com/">archiposition.com (有方)</a> 最新 100 篇文章,
+     每天 UTC 17:00 (北京时间 01:00) 更新一次。</p>
+
+  <h2>Feed URL</h2>
+  <div class="feed-url">https://ting2465.github.io/archiposition-rss/archiposition.xml</div>
+
+  <p>复制上面的 URL, 粘贴到你的 RSS 阅读器即可订阅:</p>
+  <a class="btn" href="https://www.inoreader.com/ingoreader_add_feed_url?url=https%3A%2F%2Fting2465.github.io%2Farchiposition-rss%2Farchiposition.xml">📥 添加到 Inoreader</a>
+  <a class="btn" href="https://feedly.com/i/subscribe/feed/https%3A%2F%2Fting2465.github.io%2Farchiposition-rss%2Farchiposition.xml" style="background:#2bb24c">📥 添加到 Feedly</a>
+
+  <h2>每个 item 包含</h2>
+  <ul>
+    <li>标题 (来自 &lt;title&gt; 标签, 已去掉 "– 有方" 后缀)</li>
+    <li>封面图 (来自正文首张 image.archiposition.com 大图)</li>
+    <li>发布时间 (RFC 822 pubDate)</li>
+    <li>摘要 (项目单位 / 项目地点等元信息)</li>
+    <li>原文链接</li>
+  </ul>
+
+  <div class="meta">
+    自动维护 by GitHub Actions &middot; 源码见
+    <a href="https://github.com/ting2465/archiposition-rss">github.com/ting2465/archiposition-rss</a>
+  </div>
+</body>
+</html>
