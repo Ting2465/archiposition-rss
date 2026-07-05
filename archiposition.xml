@@ -5,7 +5,7 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Jul 2026 18:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:09:18 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -328,9 +328,9 @@
       <link>https://www.archiposition.com/items/20180525113726</link>
       <guid isPermaLink="false">archiposition-20180525113726</guid>
       <pubDate>Fri, 12 Jan 2018 15:44:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2018/09/图11-1.jpg" alt="Empire City：自然景观融入摩天楼，为越南的未来而设计 / 奥雷·舍人事务所" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/04/91745374193.jpg" alt="Empire City：自然景观融入摩天楼，为越南的未来而设计 / 奥雷·舍人事务所" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2018/09/图11-1.jpg" type="image/jpeg" />
+      <enclosure url="https://image.archiposition.com/2025/04/91745374193.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>奥雷·舍人在建方案：科达利全球总部“科达利之窗”</title>
@@ -891,15 +891,6 @@
       <enclosure url="https://image.archiposition.com/2026/06/91781073856.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>张·雷新作：四峰山望楼，御风而行</title>
-      <link>https://www.archiposition.com/items/6705913c50</link>
-      <guid isPermaLink="false">archiposition-6705913c50</guid>
-      <pubDate>Wed, 10 Jun 2026 14:31:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/91781071332.jpg" alt="张·雷新作：四峰山望楼，御风而行" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/91781071332.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>学园堂当代园林基础班招募（第二届）：以观法入造园丨推介</title>
       <link>https://www.archiposition.com/items/b62351e377</link>
       <guid isPermaLink="false">archiposition-b62351e377</guid>
@@ -907,6 +898,15 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/01781070970.png" alt="学园堂当代园林基础班招募（第二届）：以观法入造园丨推介" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/06/01781070970.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>武汉招商花园里与广州南·檐下集 / 超级平常</title>
+      <link>https://www.archiposition.com/items/17e69d5394</link>
+      <guid isPermaLink="false">archiposition-17e69d5394</guid>
+      <pubDate>Tue, 09 Jun 2026 16:32:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/101780904490.png" alt="武汉招商花园里与广州南·檐下集 / 超级平常" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位提供。&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/06/101780904490.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
