@@ -5,9 +5,27 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jul 2026 18:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:53:08 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>悉尼MPark办公楼，融入城市的办公新范式 / Choi Studio</title>
+      <link>https://www.archiposition.com/items/b8168a5361</link>
+      <guid isPermaLink="false">archiposition-b8168a5361</guid>
+      <pubDate>Thu, 09 Jul 2026 18:04:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01783568157.jpg" alt="悉尼MPark办公楼，融入城市的办公新范式 / Choi Studio" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/01783568157.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>深圳华汇+iDEA新作：罗湖一馆一中心</title>
+      <link>https://www.archiposition.com/items/ec44c3be87</link>
+      <guid isPermaLink="false">archiposition-ec44c3be87</guid>
+      <pubDate>Thu, 09 Jul 2026 17:09:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/11783583911.png" alt="深圳华汇+iDEA新作：罗湖一馆一中心" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/11783583911.png" type="image/jpeg" />
+    </item>
     <item>
       <title>法国Vatea公寓，停泊莱茵河岸的船 / Nicolas Laisné Architectes</title>
       <link>https://www.archiposition.com/items/68fa4172d3</link>
@@ -25,6 +43,33 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/91783482189.jpg" alt="BIG最新方案：美国国家六月节博物馆，纪念自由精神的公共文化空间" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/91783482189.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>建筑地图292｜杭州：新建成</title>
+      <link>https://www.archiposition.com/items/92f96c3707</link>
+      <guid isPermaLink="false">archiposition-92f96c3707</guid>
+      <pubDate>Thu, 09 Jul 2026 12:15:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/21783569501.png" alt="建筑地图292｜杭州：新建成" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/21783569501.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>洛杉矶未来主义新地标，Samuel Oschin航空航天中心主体建设完工</title>
+      <link>https://www.archiposition.com/items/2b2dfd4871</link>
+      <guid isPermaLink="false">archiposition-2b2dfd4871</guid>
+      <pubDate>Fri, 15 May 2026 11:24:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/05/101778812590.jpg" alt="洛杉矶未来主义新地标，Samuel Oschin航空航天中心主体建设完工" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/05/101778812590.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>弗兰克·盖里遗作：阿布扎比“艺术之家”正式动工</title>
+      <link>https://www.archiposition.com/items/4365ee737d</link>
+      <guid isPermaLink="false">archiposition-4365ee737d</guid>
+      <pubDate>Thu, 02 Jul 2026 11:08:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31782960888.png" alt="弗兰克·盖里遗作：阿布扎比“艺术之家”正式动工" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/31782960888.png" type="image/jpeg" />
     </item>
     <item>
       <title>惠州文学村公共艺术装置·浮页 / f-a-n泛建筑</title>
@@ -315,15 +360,6 @@
       <enclosure url="https://image.archiposition.com/2026/07/81782961279.png" type="image/jpeg" />
     </item>
     <item>
-      <title>弗兰克·盖里遗作：阿布扎比“艺术之家”正式动工</title>
-      <link>https://www.archiposition.com/items/4365ee737d</link>
-      <guid isPermaLink="false">archiposition-4365ee737d</guid>
-      <pubDate>Thu, 02 Jul 2026 11:08:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31782960888.png" alt="弗兰克·盖里遗作：阿布扎比“艺术之家”正式动工" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/31782960888.png" type="image/jpeg" />
-    </item>
-    <item>
       <title>上澳塘党群服务中心 / 刘宇扬建筑事务所</title>
       <link>https://www.archiposition.com/items/4caa1cd3e7</link>
       <guid isPermaLink="false">archiposition-4caa1cd3e7</guid>
@@ -502,15 +538,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/81782382296.jpg" alt="上海汽车博物馆技术馆空间更新及展陈设计 / SLT设计咨询事务所" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：SLT设计咨询&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/06/81782382296.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Empire City：自然景观融入摩天楼，为越南的未来而设计 / 奥雷·舍人事务所</title>
-      <link>https://www.archiposition.com/items/20180525113726</link>
-      <guid isPermaLink="false">archiposition-20180525113726</guid>
-      <pubDate>Fri, 12 Jan 2018 15:44:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2021/08/20210811120557youfang100.jpg" alt="Empire City：自然景观融入摩天楼，为越南的未来而设计 / 奥雷·舍人事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2021/08/20210811120557youfang100.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>奥雷·舍人在建方案：科达利全球总部“科达利之窗”</title>
@@ -880,33 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/21781581040.jpg" alt="经典再读250 | 路易斯·康的最后一座住宅：科曼宅" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/06/21781581040.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>泰兴两河景观带配套建筑更新改造项目｜东大院ATA工作室</title>
-      <link>https://www.archiposition.com/items/20260616113533</link>
-      <guid isPermaLink="false">archiposition-20260616113533</guid>
-      <pubDate>Tue, 16 Jun 2026 11:42:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="泰兴两河景观带配套建筑更新改造项目｜东大院ATA工作室" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>隈研吾新作：广州船台1914，可攀登的城市地景</title>
-      <link>https://www.archiposition.com/items/f29798411d</link>
-      <guid isPermaLink="false">archiposition-f29798411d</guid>
-      <pubDate>Mon, 15 Jun 2026 14:30:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/101781500688.png" alt="隈研吾新作：广州船台1914，可攀登的城市地景" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/101781500688.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>江陵茶馆，废弃影院的重生 / 未见筑设计事务所</title>
-      <link>https://www.archiposition.com/items/e2300b7cdc</link>
-      <guid isPermaLink="false">archiposition-e2300b7cdc</guid>
-      <pubDate>Mon, 15 Jun 2026 17:38:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/41781513784.png" alt="江陵茶馆，废弃影院的重生 / 未见筑设计事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：未见筑设计事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/41781513784.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
