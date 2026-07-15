@@ -5,9 +5,36 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 14 Jul 2026 18:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:07:34 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OMA新作：The Martin，阿姆斯特丹“立体拼图”住宅塔楼</title>
+      <link>https://www.archiposition.com/items/e317521de6</link>
+      <guid isPermaLink="false">archiposition-e317521de6</guid>
+      <pubDate>Tue, 14 Jul 2026 17:15:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/11784015725.png" alt="OMA新作：The Martin，阿姆斯特丹“立体拼图”住宅塔楼" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位 OMA&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/11784015725.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>上海旧宅改造，Z-39 / 〇筑设计</title>
+      <link>https://www.archiposition.com/items/474863a25a</link>
+      <guid isPermaLink="false">archiposition-474863a25a</guid>
+      <pubDate>Wed, 15 Jul 2026 11:13:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01784083716.jpg" alt="上海旧宅改造，Z-39 / 〇筑设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：〇筑设计&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/01784083716.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>一座山的文化身份——盐盆山公园的地方转译与设计 / 立琅设计</title>
+      <link>https://www.archiposition.com/items/a1b9772693</link>
+      <guid isPermaLink="false">archiposition-a1b9772693</guid>
+      <pubDate>Wed, 15 Jul 2026 10:47:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/71784081274.png" alt="一座山的文化身份——盐盆山公园的地方转译与设计 / 立琅设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/71784081274.png" type="image/jpeg" />
+    </item>
     <item>
       <title>招标竞赛组织</title>
       <link>https://www.archiposition.com/items/competition</link>
@@ -52,15 +79,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/81783930569.png" alt="798·751火车街区改造 / 不也设计工作室" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：不也设计工作室&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/81783930569.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>OMA新作：The Martin，阿姆斯特丹“立体拼图”住宅塔楼</title>
-      <link>https://www.archiposition.com/items/e317521de6</link>
-      <guid isPermaLink="false">archiposition-e317521de6</guid>
-      <pubDate>Tue, 14 Jul 2026 17:15:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/11784015725.png" alt="OMA新作：The Martin，阿姆斯特丹“立体拼图”住宅塔楼" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位 OMA&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/11784015725.png" type="image/jpeg" />
     </item>
     <item>
       <title>天颂总部大厦｜浙江省建筑设计研究院有限公司</title>
@@ -889,24 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="中原国际会展中心二期工程丨RSHP、同济大学建筑设计研究院（集团）有限公司" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>水石设计新作：珠海世荣草朗稻梦生态园谷仓餐厅</title>
-      <link>https://www.archiposition.com/items/ea5b127511</link>
-      <guid isPermaLink="false">archiposition-ea5b127511</guid>
-      <pubDate>Thu, 18 Jun 2026 17:06:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/101781766043.jpg" alt="水石设计新作：珠海世荣草朗稻梦生态园谷仓餐厅" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/101781766043.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>芸溪谷·周洛民宿，建筑、人、自然的共生呼吸 / 水木言</title>
-      <link>https://www.archiposition.com/items/744dff5aae</link>
-      <guid isPermaLink="false">archiposition-744dff5aae</guid>
-      <pubDate>Thu, 18 Jun 2026 16:42:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/51781761426.png" alt="芸溪谷·周洛民宿，建筑、人、自然的共生呼吸 / 水木言" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：水木言空间设计（上海）有限公司&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/51781761426.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
