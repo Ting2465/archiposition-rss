@@ -5,9 +5,36 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:05:05 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中建西南院郑勇工作室在建方案：东莞市黄江高级中学设计</title>
+      <link>https://www.archiposition.com/items/342a67d2c4</link>
+      <guid isPermaLink="false">archiposition-342a67d2c4</guid>
+      <pubDate>Thu, 16 Jul 2026 10:49:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/51784169051.png" alt="中建西南院郑勇工作室在建方案：东莞市黄江高级中学设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：中国建筑西南设计研究院有限公司 郑勇工作室+设计五院+珠高公司&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/51784169051.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>众建筑新作：众山集，上海复兴岛船台公园艺术装置</title>
+      <link>https://www.archiposition.com/items/614076bacb</link>
+      <guid isPermaLink="false">archiposition-614076bacb</guid>
+      <pubDate>Tue, 14 Jul 2026 16:05:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/71784014255.png" alt="众建筑新作：众山集，上海复兴岛船台公园艺术装置" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：众建筑&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/71784014255.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>一座山的文化身份——盐盆山公园的地方转译与设计 / 立琅设计</title>
+      <link>https://www.archiposition.com/items/a1b9772693</link>
+      <guid isPermaLink="false">archiposition-a1b9772693</guid>
+      <pubDate>Wed, 15 Jul 2026 10:47:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/71784081274.png" alt="一座山的文化身份——盐盆山公园的地方转译与设计 / 立琅设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/71784081274.png" type="image/jpeg" />
+    </item>
     <item>
       <title>OMA新作：The Martin，阿姆斯特丹“立体拼图”住宅塔楼</title>
       <link>https://www.archiposition.com/items/e317521de6</link>
@@ -25,15 +52,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01784083716.jpg" alt="上海旧宅改造，Z-39 / 〇筑设计" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：〇筑设计&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/01784083716.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>一座山的文化身份——盐盆山公园的地方转译与设计 / 立琅设计</title>
-      <link>https://www.archiposition.com/items/a1b9772693</link>
-      <guid isPermaLink="false">archiposition-a1b9772693</guid>
-      <pubDate>Wed, 15 Jul 2026 10:47:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/71784081274.png" alt="一座山的文化身份——盐盆山公园的地方转译与设计 / 立琅设计" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/71784081274.png" type="image/jpeg" />
     </item>
     <item>
       <title>招标竞赛组织</title>
@@ -97,15 +115,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/41783930884.png" alt="打开故乡的山窗：文成山舍 / 其实建筑" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：其实建筑事务所&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/41783930884.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>众建筑新作：众山集，上海复兴岛船台公园艺术装置</title>
-      <link>https://www.archiposition.com/items/614076bacb</link>
-      <guid isPermaLink="false">archiposition-614076bacb</guid>
-      <pubDate>Tue, 14 Jul 2026 16:05:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/71784014255.png" alt="众建筑新作：众山集，上海复兴岛船台公园艺术装置" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：众建筑&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/71784014255.png" type="image/jpeg" />
     </item>
     <item>
       <title>北京三里屯太古里北区城市更新 / 中国建研院</title>
@@ -898,15 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/81781662073.png" alt="goa新作：木守·朱泾，回到上海之前的上海" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/06/81781662073.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>中原国际会展中心二期工程丨RSHP、同济大学建筑设计研究院（集团）有限公司</title>
-      <link>https://www.archiposition.com/items/20260617020350</link>
-      <guid isPermaLink="false">archiposition-20260617020350</guid>
-      <pubDate>Wed, 17 Jun 2026 14:08:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="中原国际会展中心二期工程丨RSHP、同济大学建筑设计研究院（集团）有限公司" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
