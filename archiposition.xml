@@ -5,9 +5,18 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 21 Jul 2026 18:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:11:50 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>纽约哈德逊河谷木结构剧场，打开自然舞台 / Studio Gang</title>
+      <link>https://www.archiposition.com/items/10b7a9a6ae</link>
+      <guid isPermaLink="false">archiposition-10b7a9a6ae</guid>
+      <pubDate>Wed, 22 Jul 2026 11:52:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/101784690249.jpg" alt="纽约哈德逊河谷木结构剧场，打开自然舞台 / Studio Gang" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/101784690249.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>中国院新作：蒲县图书馆美术馆，山河月映的文化明堂</title>
       <link>https://www.archiposition.com/items/5707007313</link>
@@ -16,6 +25,24 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61784612616.png" alt="中国院新作：蒲县图书馆美术馆，山河月映的文化明堂" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/61784612616.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MVRDV新作：北京三里屯URBAN REVIVO旗舰店</title>
+      <link>https://www.archiposition.com/items/f66811aae9</link>
+      <guid isPermaLink="false">archiposition-f66811aae9</guid>
+      <pubDate>Wed, 22 Jul 2026 11:11:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61784686900.jpg" alt="MVRDV新作：北京三里屯URBAN REVIVO旗舰店" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/61784686900.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MVRDV联合体以“滚石”奇观，赢得荷兰Shift Embassy国际竞赛</title>
+      <link>https://www.archiposition.com/items/8fa610dab2</link>
+      <guid isPermaLink="false">archiposition-8fa610dab2</guid>
+      <pubDate>Wed, 22 Jul 2026 10:48:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/91784686060.png" alt="MVRDV联合体以“滚石”奇观，赢得荷兰Shift Embassy国际竞赛" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/91784686060.png" type="image/jpeg" />
     </item>
     <item>
       <title>“糖舍+”计划，三座微型构筑 / 郭廖辉工作室</title>
@@ -880,33 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/41782702792.png" alt="经典再读251 | E-1027别墅：一段往事，一个天才设计" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/06/41782702792.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>gad新作：万科·河颂映象府，映象系3.0的经典重译</title>
-      <link>https://www.archiposition.com/items/6c1f5ce0e1</link>
-      <guid isPermaLink="false">archiposition-6c1f5ce0e1</guid>
-      <pubDate>Mon, 29 Jun 2026 11:16:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/41782701514.png" alt="gad新作：万科·河颂映象府，映象系3.0的经典重译" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：gad杰地设计&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/41782701514.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>知城云径：中新广州知识城立体漫步环线设计竞赛</title>
-      <link>https://www.archiposition.com/items/5e19327a4b</link>
-      <guid isPermaLink="false">archiposition-5e19327a4b</guid>
-      <pubDate>Fri, 26 Jun 2026 10:41:30 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/03/20260330155935youfang17.jpg" alt="知城云径：中新广州知识城立体漫步环线设计竞赛" /&gt;&lt;/p&gt;
-&lt;p&gt;丁沃沃（评审组长） DING Wowo (jury chair)&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/03/20260330155935youfang17.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>深圳湾万象城二期VOYAT餐厅 / Ruhaus Studio</title>
-      <link>https://www.archiposition.com/items/2d7df31519</link>
-      <guid isPermaLink="false">archiposition-2d7df31519</guid>
-      <pubDate>Fri, 26 Jun 2026 10:36:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/51782440709.png" alt="深圳湾万象城二期VOYAT餐厅 / Ruhaus Studio" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：Ruhaus Studio&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/51782440709.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
