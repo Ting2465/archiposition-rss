@@ -5,9 +5,63 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 30 Jul 2026 18:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 18:22:08 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的博物馆：一场与生命的对话 / VAVESTUDIO</title>
+      <link>https://www.archiposition.com/items/c00fb8cadf</link>
+      <guid isPermaLink="false">archiposition-c00fb8cadf</guid>
+      <pubDate>Fri, 31 Jul 2026 18:31:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/11785492765.png" alt="我的博物馆：一场与生命的对话 / VAVESTUDIO" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/11785492765.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>元气琥珀药局，新零售思路的药房 / OAOA Studio</title>
+      <link>https://www.archiposition.com/items/b564988466</link>
+      <guid isPermaLink="false">archiposition-b564988466</guid>
+      <pubDate>Fri, 31 Jul 2026 18:11:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31785407039.jpg" alt="元气琥珀药局，新零售思路的药房 / OAOA Studio" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/31785407039.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>旅行现场 | 那天，我走进夏季别墅</title>
+      <link>https://www.archiposition.com/items/20260731024222</link>
+      <guid isPermaLink="false">archiposition-20260731024222</guid>
+      <pubDate>Fri, 31 Jul 2026 14:51:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/20260731144347youfang34.png" alt="旅行现场 | 那天，我走进夏季别墅" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/20260731144347youfang34.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>“我的博物馆”展厅设计｜VAVESTUDIO</title>
+      <link>https://www.archiposition.com/items/20260731022656</link>
+      <guid isPermaLink="false">archiposition-20260731022656</guid>
+      <pubDate>Fri, 31 Jul 2026 14:30:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="“我的博物馆”展厅设计｜VAVESTUDIO" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>沉积计划：让生活的舒适渗入创作空间 / 水相设计</title>
+      <link>https://www.archiposition.com/items/d3d86d91ee</link>
+      <guid isPermaLink="false">archiposition-d3d86d91ee</guid>
+      <pubDate>Fri, 31 Jul 2026 13:57:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/101785467185.png" alt="沉积计划：让生活的舒适渗入创作空间 / 水相设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：水相设计&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/101785467185.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>厦门MSLAN corner服装店，街角的新邻里 / 退化建筑</title>
+      <link>https://www.archiposition.com/items/1f1219be9f</link>
+      <guid isPermaLink="false">archiposition-1f1219be9f</guid>
+      <pubDate>Thu, 30 Jul 2026 17:11:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31785401731.png" alt="厦门MSLAN corner服装店，街角的新邻里 / 退化建筑" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：退化建筑&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/07/31785401731.png" type="image/jpeg" />
+    </item>
     <item>
       <title>INSIDE奥体南路店，置入混凝土巨构 / 大棟建築</title>
       <link>https://www.archiposition.com/items/e86d7511d8</link>
@@ -25,15 +79,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61785404632.png" alt="中建西南院前方工作室新作：广州南沙国际贸易中心，岭南的在地性回响" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位: 中国建筑西南设计研究院有限公司前方工作室、设计二院&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/61785404632.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>厦门MSLAN corner服装店，街角的新邻里 / 退化建筑</title>
-      <link>https://www.archiposition.com/items/1f1219be9f</link>
-      <guid isPermaLink="false">archiposition-1f1219be9f</guid>
-      <pubDate>Thu, 30 Jul 2026 17:11:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31785401731.png" alt="厦门MSLAN corner服装店，街角的新邻里 / 退化建筑" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：退化建筑&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/31785401731.png" type="image/jpeg" />
     </item>
     <item>
       <title>RSHP新作：打造上海张园旁38层新地标，新旧共生的城市界面</title>
@@ -862,51 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/21783569501.png" alt="建筑地图292｜杭州：新建成" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/21783569501.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>洛杉矶未来主义新地标，Samuel Oschin航空航天中心主体建设完工</title>
-      <link>https://www.archiposition.com/items/2b2dfd4871</link>
-      <guid isPermaLink="false">archiposition-2b2dfd4871</guid>
-      <pubDate>Fri, 15 May 2026 11:24:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/05/101778812590.jpg" alt="洛杉矶未来主义新地标，Samuel Oschin航空航天中心主体建设完工" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/05/101778812590.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>弗兰克·盖里遗作：阿布扎比“艺术之家”正式动工</title>
-      <link>https://www.archiposition.com/items/4365ee737d</link>
-      <guid isPermaLink="false">archiposition-4365ee737d</guid>
-      <pubDate>Thu, 02 Jul 2026 11:08:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31782960888.png" alt="弗兰克·盖里遗作：阿布扎比“艺术之家”正式动工" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/31782960888.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>重庆Lago餐厅，在杉林和湖水间栖居自然烟火 / 几里建筑</title>
-      <link>https://www.archiposition.com/items/9c2f6ccbe4</link>
-      <guid isPermaLink="false">archiposition-9c2f6ccbe4</guid>
-      <pubDate>Wed, 08 Jul 2026 16:06:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/41783419398.png" alt="重庆Lago餐厅，在杉林和湖水间栖居自然烟火 / 几里建筑" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/41783419398.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>涩谷AXSH，把城市步行网络搬进建筑里 / 三菱地设计+东急设计顾问</title>
-      <link>https://www.archiposition.com/items/3102b2cc50</link>
-      <guid isPermaLink="false">archiposition-3102b2cc50</guid>
-      <pubDate>Tue, 07 Jul 2026 10:08:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/101783047554.png" alt="涩谷AXSH，把城市步行网络搬进建筑里 / 三菱地设计+东急设计顾问" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/101783047554.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Populous的世界杯建筑图鉴</title>
-      <link>https://www.archiposition.com/items/0e70e0bbca</link>
-      <guid isPermaLink="false">archiposition-0e70e0bbca</guid>
-      <pubDate>Tue, 30 Jun 2026 17:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/06/61782806793.jpg" alt="Populous的世界杯建筑图鉴" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/06/61782806793.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
