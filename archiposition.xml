@@ -5,9 +5,36 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 03 Aug 2026 18:50:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:30:05 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>竹西佳境：传统空间原型的重构 / 出品建筑</title>
+      <link>https://www.archiposition.com/items/20230306033319</link>
+      <guid isPermaLink="false">archiposition-20230306033319</guid>
+      <pubDate>Mon, 06 Mar 2023 20:17:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2023/03/20230306164144youfang15.gif" alt="竹西佳境：传统空间原型的重构 / 出品建筑" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：出品建筑&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2023/03/20230306164144youfang15.gif" type="image/jpeg" />
+    </item>
+    <item>
+      <title>深圳湾文化广场｜MAD建筑事务所</title>
+      <link>https://www.archiposition.com/items/20260804042551</link>
+      <guid isPermaLink="false">archiposition-20260804042551</guid>
+      <pubDate>Tue, 04 Aug 2026 16:28:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="深圳湾文化广场｜MAD建筑事务所" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>秦皇岛阿那亚第十一食堂 / 建言建筑</title>
+      <link>https://www.archiposition.com/items/49515562c5</link>
+      <guid isPermaLink="false">archiposition-49515562c5</guid>
+      <pubDate>Tue, 04 Aug 2026 10:18:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/101785806798.png" alt="秦皇岛阿那亚第十一食堂 / 建言建筑" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：建言建筑 Verse Design&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/101785806798.png" type="image/jpeg" />
+    </item>
     <item>
       <title>YAN SPACE摄影艺术空间 / 伍米尺建筑空间设计</title>
       <link>https://www.archiposition.com/items/6d49465c2b</link>
@@ -880,33 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01784016593.png" alt="北京三里屯太古里北区城市更新 / 中国建研院" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：中国建筑科学研究院有限公司—城乡规划院&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/01784016593.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BIG最新方案：美国国家六月节博物馆，纪念自由精神的公共文化空间</title>
-      <link>https://www.archiposition.com/items/da1c122ae1</link>
-      <guid isPermaLink="false">archiposition-da1c122ae1</guid>
-      <pubDate>Wed, 08 Jul 2026 17:10:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/91783482189.jpg" alt="BIG最新方案：美国国家六月节博物馆，纪念自由精神的公共文化空间" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/91783482189.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>“两个更好”城市书屋—百花园书屋｜刘宇扬建筑事务所</title>
-      <link>https://www.archiposition.com/items/20260714031833</link>
-      <guid isPermaLink="false">archiposition-20260714031833</guid>
-      <pubDate>Tue, 14 Jul 2026 15:22:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="“两个更好”城市书屋—百花园书屋｜刘宇扬建筑事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>苏州轨交4号线木里公交换乘停车枢纽设计 / 启迪设计集团</title>
-      <link>https://www.archiposition.com/items/4c561d5ac7</link>
-      <guid isPermaLink="false">archiposition-4c561d5ac7</guid>
-      <pubDate>Mon, 13 Jul 2026 17:48:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31783933847.jpg" alt="苏州轨交4号线木里公交换乘停车枢纽设计 / 启迪设计集团" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：启迪设计集团股份有限公司&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/31783933847.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
