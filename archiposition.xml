@@ -5,17 +5,71 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 17:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:26:07 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>朱培栋line+在建方案：三亚海棠悦府二期，旅度生境</title>
+      <title>日建设计新作：东京八重洲DAIBIRU大楼，以石材立面重现经典</title>
+      <link>https://www.archiposition.com/items/658838700e</link>
+      <guid isPermaLink="false">archiposition-658838700e</guid>
+      <pubDate>Mon, 17 Aug 2026 17:43:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/71786955029.png" alt="日建设计新作：东京八重洲DAIBIRU大楼，以石材立面重现经典" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：株式会社日建设计&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/71786955029.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>北京大学数学科学学院，历史建筑再生 / 扉建筑</title>
+      <link>https://www.archiposition.com/items/9c5cfdc845</link>
+      <guid isPermaLink="false">archiposition-9c5cfdc845</guid>
+      <pubDate>Mon, 17 Aug 2026 15:55:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/81786951934.png" alt="北京大学数学科学学院，历史建筑再生 / 扉建筑" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：扉建筑&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/81786951934.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>朱培栋line+新作：三亚海棠悦府二期一批次，旅度生境</title>
       <link>https://www.archiposition.com/items/fe79d4158e</link>
       <guid isPermaLink="false">archiposition-fe79d4158e</guid>
       <pubDate>Fri, 14 Aug 2026 18:34:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91786701491.png" alt="朱培栋line+在建方案：三亚海棠悦府二期，旅度生境" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91786701491.png" alt="朱培栋line+新作：三亚海棠悦府二期一批次，旅度生境" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：line+建筑事务所&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/91786701491.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>坂茂新作：日本淡路岛上，山海之间的康养度假中心</title>
+      <link>https://www.archiposition.com/items/7b7beeb49b</link>
+      <guid isPermaLink="false">archiposition-7b7beeb49b</guid>
+      <pubDate>Mon, 17 Aug 2026 13:51:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91786935204.png" alt="坂茂新作：日本淡路岛上，山海之间的康养度假中心" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/91786935204.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>DS+R新作：MIT建筑与规划学院仓库改造，从储藏空间到建筑学院</title>
+      <link>https://www.archiposition.com/items/6e73ec2fc2</link>
+      <guid isPermaLink="false">archiposition-6e73ec2fc2</guid>
+      <pubDate>Mon, 17 Aug 2026 12:01:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/11786698877.png" alt="DS+R新作：MIT建筑与规划学院仓库改造，从储藏空间到建筑学院" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/11786698877.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>卒姆托x文德斯：酝酿14年，共赴一场建筑电影之梦</title>
+      <link>https://www.archiposition.com/items/2eea962d82</link>
+      <guid isPermaLink="false">archiposition-2eea962d82</guid>
+      <pubDate>Mon, 17 Aug 2026 11:40:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/101786936841.png" alt="卒姆托x文德斯：酝酿14年，共赴一场建筑电影之梦" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/101786936841.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>奥雷·舍人设计，京东深圳总部结构封顶、预计2027年建成</title>
+      <link>https://www.archiposition.com/items/a1717ddafe</link>
+      <guid isPermaLink="false">archiposition-a1717ddafe</guid>
+      <pubDate>Mon, 17 Aug 2026 11:19:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/21786935146.png" alt="奥雷·舍人设计，京东深圳总部结构封顶、预计2027年建成" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/21786935146.png" type="image/jpeg" />
     </item>
     <item>
       <title>c+d设计中心新作：宁波秀水街历史文化街区更新改造</title>
@@ -853,60 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01784882731.jpg" alt="成都InDeX咖啡品牌空间设计 / 蒸馏设计" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：蒸馏设计&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/01784882731.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>沈阳Drip More咖啡店，“停”的意义 / 白菜设计</title>
-      <link>https://www.archiposition.com/items/b832360568</link>
-      <guid isPermaLink="false">archiposition-b832360568</guid>
-      <pubDate>Fri, 24 Jul 2026 16:44:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61784881230.jpg" alt="沈阳Drip More咖啡店，“停”的意义 / 白菜设计" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：白菜设计&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/61784881230.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>杭州天伟控股集团总部｜孟凡浩-line+建筑事务所</title>
-      <link>https://www.archiposition.com/items/20260724015929</link>
-      <guid isPermaLink="false">archiposition-20260724015929</guid>
-      <pubDate>Fri, 24 Jul 2026 14:02:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="杭州天伟控股集团总部｜孟凡浩-line+建筑事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>建筑地图293｜蒙特利尔：写满故事的浪漫岛城</title>
-      <link>https://www.archiposition.com/items/506d102962</link>
-      <guid isPermaLink="false">archiposition-506d102962</guid>
-      <pubDate>Fri, 24 Jul 2026 11:51:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61784864497.png" alt="建筑地图293｜蒙特利尔：写满故事的浪漫岛城" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/61784864497.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>造园建筑新作：AIT COFFEE宋韵，藏在杭州商场里的洞天画舫</title>
-      <link>https://www.archiposition.com/items/676b56cc8f</link>
-      <guid isPermaLink="false">archiposition-676b56cc8f</guid>
-      <pubDate>Thu, 23 Jul 2026 10:15:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/21784771366.png" alt="造园建筑新作：AIT COFFEE宋韵，藏在杭州商场里的洞天画舫" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/21784771366.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>奇普菲尔德新作：德国​Ernst​ing’s ​总部​园区，新旧建筑的共生更新</title>
-      <link>https://www.archiposition.com/items/47c095eac0</link>
-      <guid isPermaLink="false">archiposition-47c095eac0</guid>
-      <pubDate>Thu, 23 Jul 2026 16:35:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/81784714650.jpg" alt="奇普菲尔德新作：德国​Ernst​ing’s ​总部​园区，新旧建筑的共生更新" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/81784714650.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>巴塞罗那“房间社区”社会住宅，中性空间 / Cierto Estudio</title>
-      <link>https://www.archiposition.com/items/76126c3424</link>
-      <guid isPermaLink="false">archiposition-76126c3424</guid>
-      <pubDate>Thu, 23 Jul 2026 17:48:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01784798209.png" alt="巴塞罗那“房间社区”社会住宅，中性空间 / Cierto Estudio" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/01784798209.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
