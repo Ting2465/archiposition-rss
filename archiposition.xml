@@ -5,9 +5,54 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:26:04 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>伦敦可负担住房，连接城市与自然 / Morris+Company &amp; White Ink Architects</title>
+      <link>https://www.archiposition.com/items/63ec80282b</link>
+      <guid isPermaLink="false">archiposition-63ec80282b</guid>
+      <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/41787111215.png" alt="伦敦可负担住房，连接城市与自然 / Morris+Company &amp;amp; White Ink Architects" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/41787111215.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>英国赫特福德BEAM文化中心改造 / Bennetts Associates</title>
+      <link>https://www.archiposition.com/items/2433882cb2</link>
+      <guid isPermaLink="false">archiposition-2433882cb2</guid>
+      <pubDate>Wed, 19 Aug 2026 13:47:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/61787109427.png" alt="英国赫特福德BEAM文化中心改造 / Bennetts Associates" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/61787109427.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>DS+R新作：MIT建筑与规划学院仓库改造，从储藏空间到建筑学院</title>
+      <link>https://www.archiposition.com/items/6e73ec2fc2</link>
+      <guid isPermaLink="false">archiposition-6e73ec2fc2</guid>
+      <pubDate>Mon, 17 Aug 2026 12:01:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/11786698877.png" alt="DS+R新作：MIT建筑与规划学院仓库改造，从储藏空间到建筑学院" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/11786698877.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>察社办公室新作：撑伞之家，有“方向”的房子</title>
+      <link>https://www.archiposition.com/items/fb6682f55e</link>
+      <guid isPermaLink="false">archiposition-fb6682f55e</guid>
+      <pubDate>Wed, 19 Aug 2026 11:29:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/01787105064.png" alt="察社办公室新作：撑伞之家，有“方向”的房子" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：察社办公室&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/01787105064.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>献给故土，西萨·佩里的建筑终章：洛拉·莫拉文化中心</title>
+      <link>https://www.archiposition.com/items/9fbd7fc610</link>
+      <guid isPermaLink="false">archiposition-9fbd7fc610</guid>
+      <pubDate>Wed, 19 Aug 2026 10:17:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/20260819100730youfang53.jpg" alt="献给故土，西萨·佩里的建筑终章：洛拉·莫拉文化中心" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/20260819100730youfang53.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>米思新作：武汉延庆里，百年里份焕新 “社区生命体”</title>
       <link>https://www.archiposition.com/items/5ec7f7196b</link>
@@ -34,15 +79,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="安徽楚文化博物馆｜东南大学建筑设计研究院有限公司总建筑师高庆辉领衔团队" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DS+R新作：MIT建筑与规划学院仓库改造，从储藏空间到建筑学院</title>
-      <link>https://www.archiposition.com/items/6e73ec2fc2</link>
-      <guid isPermaLink="false">archiposition-6e73ec2fc2</guid>
-      <pubDate>Mon, 17 Aug 2026 12:01:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/11786698877.png" alt="DS+R新作：MIT建筑与规划学院仓库改造，从储藏空间到建筑学院" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/11786698877.png" type="image/jpeg" />
     </item>
     <item>
       <title>流光隧道—DOS道肆桥下餐厅｜MARS星球建筑</title>
@@ -871,42 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61784887796.png" alt="衡建筑新作：往遠Go Far&amp;amp;一楼半，双店共生的复合型餐厅" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/61784887796.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>新疆大野松山民宿，河谷草原中的山野居所 / 尌林建筑</title>
-      <link>https://www.archiposition.com/items/677b9118fe</link>
-      <guid isPermaLink="false">archiposition-677b9118fe</guid>
-      <pubDate>Fri, 24 Jul 2026 18:24:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/31784107703.jpg" alt="新疆大野松山民宿，河谷草原中的山野居所 / 尌林建筑" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/31784107703.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>李兴钢“生境建筑”巴塞罗那展及开幕学术活动成功举办</title>
-      <link>https://www.archiposition.com/items/b72124dd23</link>
-      <guid isPermaLink="false">archiposition-b72124dd23</guid>
-      <pubDate>Mon, 27 Jul 2026 11:33:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/81785117666.png" alt="李兴钢“生境建筑”巴塞罗那展及开幕学术活动成功举办" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/81785117666.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>阿尔托作品申遗成功！13个项目入选《世界遗产名录》</title>
-      <link>https://www.archiposition.com/items/3cdbfe11cd</link>
-      <guid isPermaLink="false">archiposition-3cdbfe11cd</guid>
-      <pubDate>Mon, 27 Jul 2026 10:57:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/41784997719.jpg" alt="阿尔托作品申遗成功！13个项目入选《世界遗产名录》" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/41784997719.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>反几建筑新作：院向树开，黄龙岘小树咖啡民宿</title>
-      <link>https://www.archiposition.com/items/5f2f63e282</link>
-      <guid isPermaLink="false">archiposition-5f2f63e282</guid>
-      <pubDate>Fri, 24 Jul 2026 18:45:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/71784888770.png" alt="反几建筑新作：院向树开，黄龙岘小树咖啡民宿" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：反几建筑设计事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/71784888770.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
