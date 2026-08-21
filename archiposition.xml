@@ -5,9 +5,72 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:28:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:27:38 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>招聘投放</title>
+      <link>https://www.archiposition.com/items/jobservice</link>
+      <guid isPermaLink="false">archiposition-jobservice</guid>
+      <pubDate>Fri, 21 Aug 2026 10:33:49 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2013/12/20211213135618youfang89.jpg" alt="招聘投放" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位招聘信息，并收到较好的反馈效果。&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2013/12/20211213135618youfang89.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>建筑地图296｜秦皇岛：入山赴海看建筑</title>
+      <link>https://www.archiposition.com/items/5a616ddfcf</link>
+      <guid isPermaLink="false">archiposition-5a616ddfcf</guid>
+      <pubDate>Fri, 21 Aug 2026 16:17:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91787299321.png" alt="建筑地图296｜秦皇岛：入山赴海看建筑" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/91787299321.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>夏日多巴胺：20个冰淇淋店面设计</title>
+      <link>https://www.archiposition.com/items/44b38c48c5</link>
+      <guid isPermaLink="false">archiposition-44b38c48c5</guid>
+      <pubDate>Fri, 21 Aug 2026 15:33:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/11787292031.gif" alt="夏日多巴胺：20个冰淇淋店面设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/11787292031.gif" type="image/jpeg" />
+    </item>
+    <item>
+      <title>南京阿里中心景观设计 / FLO景观设计事务所</title>
+      <link>https://www.archiposition.com/items/39c559bf55</link>
+      <guid isPermaLink="false">archiposition-39c559bf55</guid>
+      <pubDate>Fri, 21 Aug 2026 15:14:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91787293631.png" alt="南京阿里中心景观设计 / FLO景观设计事务所" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：FLO景观设计事务所&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/91787293631.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>南京阿里中心景观设计｜FLO景观设计事务所</title>
+      <link>https://www.archiposition.com/items/20260821113218</link>
+      <guid isPermaLink="false">archiposition-20260821113218</guid>
+      <pubDate>Fri, 21 Aug 2026 11:35:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="南京阿里中心景观设计｜FLO景观设计事务所" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>零壹城市+GLA新作：绿城思创空间，垂直工厂</title>
+      <link>https://www.archiposition.com/items/d684134045</link>
+      <guid isPermaLink="false">archiposition-d684134045</guid>
+      <pubDate>Fri, 21 Aug 2026 11:31:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/11787281641.png" alt="零壹城市+GLA新作：绿城思创空间，垂直工厂" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：零壹城市建筑事务所&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/11787281641.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>天井之家：十米见方里的三代居 / 郦文曦建筑事务所</title>
+      <link>https://www.archiposition.com/items/7c753d01da</link>
+      <guid isPermaLink="false">archiposition-7c753d01da</guid>
+      <pubDate>Fri, 21 Aug 2026 11:05:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/71787276003.png" alt="天井之家：十米见方里的三代居 / 郦文曦建筑事务所" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/71787276003.png" type="image/jpeg" />
+    </item>
     <item>
       <title>阿尔托：建筑可以不是宣言，而是问候｜旅行现场</title>
       <link>https://www.archiposition.com/items/fdc61b35e8</link>
@@ -403,33 +466,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/61786428651.gif" alt="行走浙闽，寻访林壑间的古制与先锋︱有方影像" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/61786428651.gif" type="image/jpeg" />
-    </item>
-    <item>
-      <title>华侨城创意文化园的新伙伴：OCAT B10新馆︱有方影像</title>
-      <link>https://www.archiposition.com/items/51dedc4d8e</link>
-      <guid isPermaLink="false">archiposition-51dedc4d8e</guid>
-      <pubDate>Fri, 04 Nov 2022 19:05:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2022/11/11667534284.jpg" alt="华侨城创意文化园的新伙伴：OCAT B10新馆︱有方影像" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2022/11/11667534284.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>“深圳之眼” – 岗厦北超级枢纽初探︱有方影像</title>
-      <link>https://www.archiposition.com/items/8dadafb1c4</link>
-      <guid isPermaLink="false">archiposition-8dadafb1c4</guid>
-      <pubDate>Fri, 04 Nov 2022 19:06:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2022/11/61667534797.png" alt="“深圳之眼” – 岗厦北超级枢纽初探︱有方影像" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2022/11/61667534797.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>深圳地标汉京中心，使用两年后怎样了？︱有方影像</title>
-      <link>https://www.archiposition.com/items/692c456bca</link>
-      <guid isPermaLink="false">archiposition-692c456bca</guid>
-      <pubDate>Tue, 08 Nov 2022 15:58:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2022/11/71667893233.png" alt="深圳地标汉京中心，使用两年后怎样了？︱有方影像" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2022/11/71667893233.png" type="image/jpeg" />
     </item>
     <item>
       <title>2026年夏，深圳湾超级总部基地最新进展｜有方影像</title>
@@ -871,42 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/51785291373.png" alt="筑境设计新作：海宁华运数智港·华运汇，复合业态的TOD上盖" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：筑境设计&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/07/51785291373.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>长安书院·西安图书馆室内设计 / 红山设计+中建西北院</title>
-      <link>https://www.archiposition.com/items/2dd60f9283</link>
-      <guid isPermaLink="false">archiposition-2dd60f9283</guid>
-      <pubDate>Tue, 28 Jul 2026 18:33:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/51785146623.png" alt="长安书院·西安图书馆室内设计 / 红山设计+中建西北院" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/51785146623.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BIG最新方案：马德里UFV大学校园扩建，两座新建筑回应教育需求</title>
-      <link>https://www.archiposition.com/items/a897767b00</link>
-      <guid isPermaLink="false">archiposition-a897767b00</guid>
-      <pubDate>Tue, 28 Jul 2026 10:57:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/91785204914.png" alt="BIG最新方案：马德里UFV大学校园扩建，两座新建筑回应教育需求" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/91785204914.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>大理寻白云舍 / VODA Design</title>
-      <link>https://www.archiposition.com/items/9a7eac9c59</link>
-      <guid isPermaLink="false">archiposition-9a7eac9c59</guid>
-      <pubDate>Tue, 28 Jul 2026 17:25:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/11785229408.png" alt="大理寻白云舍 / VODA Design" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：VODA Design&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/11785229408.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>蓓慈中心：在公园上空建造的总部 / 优意建筑设计+筑森设计</title>
-      <link>https://www.archiposition.com/items/c2308d9d11</link>
-      <guid isPermaLink="false">archiposition-c2308d9d11</guid>
-      <pubDate>Tue, 28 Jul 2026 17:02:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/61785202482.png" alt="蓓慈中心：在公园上空建造的总部 / 优意建筑设计+筑森设计" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：优意建筑设计（上海）有限公司、江苏筑森建筑设计有限公司&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/61785202482.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
