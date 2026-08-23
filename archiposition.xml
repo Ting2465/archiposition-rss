@@ -5,7 +5,7 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:20:45 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -365,7 +365,7 @@
       <guid isPermaLink="false">archiposition-9c039db6e2</guid>
       <pubDate>Mon, 10 Aug 2026 18:37:00 GMT</pubDate>
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91786327326.jpg" alt="马​塞林学院​树​之​画廊，​​融入​自然​的​​空​中​连廊：Farrell Wray Architects新作" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位&amp;quot; src=&amp;quot;https://image.archiposition.com/2024/03/20240308140036youfang70.jpg?x-oss-process=image/resize,m_fill,w_252,h_190&amp;quot; /&amp;gt;&lt;/p&gt;</description>
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/91786327326.jpg" type="image/jpeg" />
     </item>
     <item>
