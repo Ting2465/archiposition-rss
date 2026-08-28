@@ -5,7 +5,7 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:22:34 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +16,24 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/51787736270.png" alt="葛明：空气的型｜深度" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/51787736270.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>陈薇：空气的力量 – 中国古典园林中的气象｜深度</title>
+      <link>https://www.archiposition.com/items/20260827065712</link>
+      <guid isPermaLink="false">archiposition-20260827065712</guid>
+      <pubDate>Thu, 27 Aug 2026 18:58:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/101787827682.png" alt="陈薇：空气的力量 – 中国古典园林中的气象｜深度" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/101787827682.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>蓬皮杜“撤回”一个美国分部，OMA公布泽西市蓬皮杜中心未建成方案</title>
+      <link>https://www.archiposition.com/items/952de3abd5</link>
+      <guid isPermaLink="false">archiposition-952de3abd5</guid>
+      <pubDate>Thu, 27 Aug 2026 09:07:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/51787622860.png" alt="蓬皮杜“撤回”一个美国分部，OMA公布泽西市蓬皮杜中心未建成方案" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/51787622860.png" type="image/jpeg" />
     </item>
     <item>
       <title>城市更新的上海范本：中海·顺昌玖里、中海·恒昌玖里</title>
@@ -889,24 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="半山腰·杭州店｜LivFAMA Designs、Co. LLC" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>孟凡浩line+在建方案：悬浮双塔，杭州天伟控股集团总部</title>
-      <link>https://www.archiposition.com/items/e20510a042</link>
-      <guid isPermaLink="false">archiposition-e20510a042</guid>
-      <pubDate>Mon, 03 Aug 2026 11:23:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/21785494309.png" alt="孟凡浩line+在建方案：悬浮双塔，杭州天伟控股集团总部" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：line+建筑事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/21785494309.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>6位名师带队，6条宝藏线路：有方2026秋季旅行宣讲会｜直播预约</title>
-      <link>https://www.archiposition.com/items/e248ba5388</link>
-      <guid isPermaLink="false">archiposition-e248ba5388</guid>
-      <pubDate>Mon, 03 Aug 2026 09:47:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91785721178.png" alt="6位名师带队，6条宝藏线路：有方2026秋季旅行宣讲会｜直播预约" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/91785721178.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
