@@ -5,16 +5,61 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:48:47 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OMA：50周年，持续进化论｜INTO ASIA 05实录</title>
+      <link>https://www.archiposition.com/items/1900180dbf</link>
+      <guid isPermaLink="false">archiposition-1900180dbf</guid>
+      <pubDate>Wed, 20 Aug 2025 12:11:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/04/51775198159.png" alt="OMA：50周年，持续进化论｜INTO ASIA 05实录" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/04/51775198159.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Heatherwick Studio的亚洲实践：创造未来，别重复过去｜INTO ASIA 04实录</title>
+      <link>https://www.archiposition.com/items/9e038c8ebb</link>
+      <guid isPermaLink="false">archiposition-9e038c8ebb</guid>
+      <pubDate>Sat, 21 Jun 2025 12:01:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/71788233781.jpg" alt="Heatherwick Studio的亚洲实践：创造未来，别重复过去｜INTO ASIA 04实录" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/71788233781.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>goa新作：中海顺昌玖里，高楼与里弄共同生长</title>
+      <link>https://www.archiposition.com/items/9a868c4b57</link>
+      <guid isPermaLink="false">archiposition-9a868c4b57</guid>
+      <pubDate>Tue, 01 Sep 2026 11:17:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/01788231342.png" alt="goa新作：中海顺昌玖里，高楼与里弄共同生长" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：goa大象设计&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/01788231342.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>长物建筑新作：成都海洋路中学，有市井感的校园</title>
+      <link>https://www.archiposition.com/items/12ea82b63c</link>
+      <guid isPermaLink="false">archiposition-12ea82b63c</guid>
+      <pubDate>Tue, 01 Sep 2026 10:52:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/31788227993.png" alt="长物建筑新作：成都海洋路中学，有市井感的校园" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/31788227993.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>金秋野 x 众建筑：建筑师如何介入工业系统？</title>
+      <link>https://www.archiposition.com/items/27e4d402f3</link>
+      <guid isPermaLink="false">archiposition-27e4d402f3</guid>
+      <pubDate>Tue, 01 Sep 2026 10:31:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/01788164144.png" alt="金秋野 x 众建筑：建筑师如何介入工业系统？" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/08/01788164144.png" type="image/jpeg" />
+    </item>
     <item>
       <title>新作+徐全胜 吴英时专访｜存量复兴的“中关村答案”</title>
       <link>https://www.archiposition.com/items/a0e1323ee4</link>
       <guid isPermaLink="false">archiposition-a0e1323ee4</guid>
       <pubDate>Mon, 31 Aug 2026 16:01:00 GMT</pubDate>
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/51788162496.jpg" alt="新作+徐全胜 吴英时专访｜存量复兴的“中关村答案”" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+&lt;p&gt;设计单位：北京市建筑设计研究院股份有限公司&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/51788162496.jpg" type="image/jpeg" />
     </item>
     <item>
@@ -279,15 +324,6 @@
       <enclosure url="https://image.archiposition.com/2026/08/71787535660.png" type="image/jpeg" />
     </item>
     <item>
-      <title>招聘投放</title>
-      <link>https://www.archiposition.com/items/jobservice</link>
-      <guid isPermaLink="false">archiposition-jobservice</guid>
-      <pubDate>Fri, 21 Aug 2026 10:33:49 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2013/12/20211213135618youfang89.jpg" alt="招聘投放" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位招聘信息，并收到较好的反馈效果。&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2013/12/20211213135618youfang89.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>建筑地图296｜秦皇岛：入山赴海看建筑</title>
       <link>https://www.archiposition.com/items/5a616ddfcf</link>
       <guid isPermaLink="false">archiposition-5a616ddfcf</guid>
@@ -448,15 +484,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/20260818161342youfang91.jpg" alt="米思新作：武汉延庆里，百年里份焕新 “社区生命体”" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/20260818161342youfang91.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>华黎TAO新作：云南潞江镇坝湾游客中心</title>
-      <link>https://www.archiposition.com/items/742f056dde</link>
-      <guid isPermaLink="false">archiposition-742f056dde</guid>
-      <pubDate>Mon, 06 Jul 2026 09:39:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/01783068582.png" alt="华黎TAO新作：云南潞江镇坝湾游客中心" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：隆湾设计有限公司&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/01783068582.png" type="image/jpeg" />
     </item>
     <item>
       <title>安徽楚文化博物馆｜东南大学建筑设计研究院有限公司总建筑师高庆辉领衔团队</title>
@@ -720,13 +747,13 @@
       <enclosure url="https://image.archiposition.com/2026/08/51786431876.png" type="image/jpeg" />
     </item>
     <item>
-      <title>行走浙闽，寻访林壑间的古制与先锋︱有方影像</title>
-      <link>https://www.archiposition.com/items/a1444eebf6</link>
-      <guid isPermaLink="false">archiposition-a1444eebf6</guid>
-      <pubDate>Wed, 11 Oct 2023 14:43:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/61786428651.gif" alt="行走浙闽，寻访林壑间的古制与先锋︱有方影像" /&gt;&lt;/p&gt;
+      <title>2025深圳湾超级总部基地最新进展，40+张图看现场｜有方影像</title>
+      <link>https://www.archiposition.com/items/8cbf88d0c6</link>
+      <guid isPermaLink="false">archiposition-8cbf88d0c6</guid>
+      <pubDate>Fri, 27 Jun 2025 12:09:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/06/20250627095315youfang84.jpg" alt="2025深圳湾超级总部基地最新进展，40+张图看现场｜有方影像" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/61786428651.gif" type="image/jpeg" />
+      <enclosure url="https://image.archiposition.com/2025/06/20250627095315youfang84.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>2026年夏，深圳湾超级总部基地最新进展｜有方影像</title>
@@ -745,15 +772,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/01786092840.png" alt="环东海域市民文体中心 / 合立道设计一致建筑设计所" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：厦门合立道工程设计集团一致建筑设计所ONENESS STUDIO&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/01786092840.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>我的博物馆：一场与生命的对话 / VAVESTUDIO</title>
-      <link>https://www.archiposition.com/items/c00fb8cadf</link>
-      <guid isPermaLink="false">archiposition-c00fb8cadf</guid>
-      <pubDate>Fri, 31 Jul 2026 18:31:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/07/11785492765.png" alt="我的博物馆：一场与生命的对话 / VAVESTUDIO" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/07/11785492765.png" type="image/jpeg" />
     </item>
     <item>
       <title>游牧家具设计展 / 局内设计、东西影工作室、墨照、厚建筑、复设计</title>
@@ -889,24 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91785910803.png" alt="曲水餐厅 / 郭廖辉工作室" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：郭廖辉工作室&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/91785910803.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PPAS领衔团队历时三年，上海世博浦西片区规划方案获批复</title>
-      <link>https://www.archiposition.com/items/4b2203da94</link>
-      <guid isPermaLink="false">archiposition-4b2203da94</guid>
-      <pubDate>Wed, 05 Aug 2026 15:44:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/71785915203.png" alt="PPAS领衔团队历时三年，上海世博浦西片区规划方案获批复" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：ppas德国珮帕施规划建筑事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/71785915203.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MAD完整发布：深圳湾文化广场，给所有人的公园</title>
-      <link>https://www.archiposition.com/items/1b8f473dfa</link>
-      <guid isPermaLink="false">archiposition-1b8f473dfa</guid>
-      <pubDate>Wed, 05 Aug 2026 15:36:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/101785913108.png" alt="MAD完整发布：深圳湾文化广场，给所有人的公园" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/101785913108.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
