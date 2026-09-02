@@ -5,9 +5,63 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:41:11 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>东大院作品：安徽楚文化博物馆</title>
+      <link>https://www.archiposition.com/items/dfc22314f1</link>
+      <guid isPermaLink="false">archiposition-dfc22314f1</guid>
+      <pubDate>Wed, 02 Sep 2026 15:41:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/81788333737.png" alt="东大院作品：安徽楚文化博物馆" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：东南大学建筑设计研究院有限公司&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/81788333737.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>成都海洋路中学｜长物建筑（广州）有限公司</title>
+      <link>https://www.archiposition.com/items/20260902031828</link>
+      <guid isPermaLink="false">archiposition-20260902031828</guid>
+      <pubDate>Wed, 02 Sep 2026 15:21:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="成都海洋路中学｜长物建筑（广州）有限公司" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>麓湖CPI三阶段景观设计，把商业“藏入山野” / 象界设计机构</title>
+      <link>https://www.archiposition.com/items/d5f955c538</link>
+      <guid isPermaLink="false">archiposition-d5f955c538</guid>
+      <pubDate>Wed, 02 Sep 2026 15:17:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/101788332473.png" alt="麓湖CPI三阶段景观设计，把商业“藏入山野” / 象界设计机构" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/101788332473.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>深度｜海东灵境：高丽寺刹与两班宅邸的山中传奇</title>
+      <link>https://www.archiposition.com/items/f129585a9e</link>
+      <guid isPermaLink="false">archiposition-f129585a9e</guid>
+      <pubDate>Wed, 02 Sep 2026 14:33:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/21788329072.jpg" alt="深度｜海东灵境：高丽寺刹与两班宅邸的山中传奇" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/21788329072.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>矿野野矿物甜品概念店 / STUDIO 4/301</title>
+      <link>https://www.archiposition.com/items/52fbd34bb2</link>
+      <guid isPermaLink="false">archiposition-52fbd34bb2</guid>
+      <pubDate>Wed, 02 Sep 2026 14:31:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/81788327335.png" alt="矿野野矿物甜品概念店 / STUDIO 4/301" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：STUDIO 4/301&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/81788327335.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>沙漠狂欢：BIG、JKMM等12个建筑师团队的火人节设计</title>
+      <link>https://www.archiposition.com/items/0e5aea9990</link>
+      <guid isPermaLink="false">archiposition-0e5aea9990</guid>
+      <pubDate>Wed, 02 Sep 2026 11:45:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/101788314882.png" alt="沙漠狂欢：BIG、JKMM等12个建筑师团队的火人节设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/101788314882.png" type="image/jpeg" />
+    </item>
     <item>
       <title>OMA：50周年，持续进化论｜INTO ASIA 05实录</title>
       <link>https://www.archiposition.com/items/1900180dbf</link>
@@ -853,60 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/71785988633.png" alt="衡建筑新作：Minzu Lane Coffee民族咖啡，老骑楼与新亭" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/08/71785988633.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MVRDV在建方案：深圳碧海楼“艺术村落”，堆叠的多彩盒子</title>
-      <link>https://www.archiposition.com/items/821a55d1e0</link>
-      <guid isPermaLink="false">archiposition-821a55d1e0</guid>
-      <pubDate>Thu, 06 Aug 2026 16:12:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91785998555.png" alt="MVRDV在建方案：深圳碧海楼“艺术村落”，堆叠的多彩盒子" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/91785998555.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>12座Best Architects 27金奖建筑，呈现欧洲设计新力量</title>
-      <link>https://www.archiposition.com/items/4bbac1fd39</link>
-      <guid isPermaLink="false">archiposition-4bbac1fd39</guid>
-      <pubDate>Wed, 05 Aug 2026 14:13:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/71785900539.jpg" alt="12座Best Architects 27金奖建筑，呈现欧洲设计新力量" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位 Graber Pulver、Martina Hauser&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/71785900539.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>路县故城遗址博物馆｜北京市建筑设计研究院股份有限公司李亦农工作室</title>
-      <link>https://www.archiposition.com/items/20260806115035</link>
-      <guid isPermaLink="false">archiposition-20260806115035</guid>
-      <pubDate>Thu, 06 Aug 2026 11:53:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="路县故城遗址博物馆｜北京市建筑设计研究院股份有限公司李亦农工作室" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>建筑地图294｜扬州：淮左名都，竹西佳处</title>
-      <link>https://www.archiposition.com/items/371248448e</link>
-      <guid isPermaLink="false">archiposition-371248448e</guid>
-      <pubDate>Wed, 05 Aug 2026 18:04:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/71785922964.png" alt="建筑地图294｜扬州：淮左名都，竹西佳处" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/71785922964.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>POPULOUS最新方案：沙特奇迪亚城国家网球中心</title>
-      <link>https://www.archiposition.com/items/1a992e3053</link>
-      <guid isPermaLink="false">archiposition-1a992e3053</guid>
-      <pubDate>Wed, 05 Aug 2026 16:24:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/20260805161806youfang92.jpg" alt="POPULOUS最新方案：沙特奇迪亚城国家网球中心" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/20260805161806youfang92.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>曲水餐厅 / 郭廖辉工作室</title>
-      <link>https://www.archiposition.com/items/c04b5e697a</link>
-      <guid isPermaLink="false">archiposition-c04b5e697a</guid>
-      <pubDate>Wed, 05 Aug 2026 15:45:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/08/91785910803.png" alt="曲水餐厅 / 郭廖辉工作室" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：郭廖辉工作室&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/08/91785910803.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
