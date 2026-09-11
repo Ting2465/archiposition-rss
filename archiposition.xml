@@ -5,9 +5,54 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:28:17 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新天地东台里章太炎故居装置，历史的“镜像” / Kokaistudios</title>
+      <link>https://www.archiposition.com/items/d1c44a7dfe</link>
+      <guid isPermaLink="false">archiposition-d1c44a7dfe</guid>
+      <pubDate>Fri, 11 Sep 2026 16:41:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/21789115193.png" alt="新天地东台里章太炎故居装置，历史的“镜像” / Kokaistudios" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：Kokaistudios&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/21789115193.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>日建设计作品：馥府京都，东山隐世之所</title>
+      <link>https://www.archiposition.com/items/8b5ed1e821</link>
+      <guid isPermaLink="false">archiposition-8b5ed1e821</guid>
+      <pubDate>Fri, 11 Sep 2026 16:17:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/91789113217.png" alt="日建设计作品：馥府京都，东山隐世之所" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：日建设计&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/91789113217.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Aedas新作：杭州水云间商业中心，钱江涟韵</title>
+      <link>https://www.archiposition.com/items/3236d1cf05</link>
+      <guid isPermaLink="false">archiposition-3236d1cf05</guid>
+      <pubDate>Fri, 11 Sep 2026 15:53:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/11789096139.png" alt="Aedas新作：杭州水云间商业中心，钱江涟韵" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：Aedas&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/11789096139.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>“9·11”后第25年：世贸中心遗址重建最新进展与成果｜建筑地图297</title>
+      <link>https://www.archiposition.com/items/f606afbc72</link>
+      <guid isPermaLink="false">archiposition-f606afbc72</guid>
+      <pubDate>Fri, 11 Sep 2026 12:05:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/11789098319.jpg" alt="“9·11”后第25年：世贸中心遗址重建最新进展与成果｜建筑地图297" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/11789098319.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>山水秀新作：欧阳路历史街区的三处微更新设计，时空里的织补</title>
+      <link>https://www.archiposition.com/items/6d27201f7b</link>
+      <guid isPermaLink="false">archiposition-6d27201f7b</guid>
+      <pubDate>Fri, 11 Sep 2026 11:14:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/41789094878.png" alt="山水秀新作：欧阳路历史街区的三处微更新设计，时空里的织补" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：上海市政工程设计研究总院（集团）有限公司&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/41789094878.png" type="image/jpeg" />
+    </item>
     <item>
       <title>致舍景观新作：木夕大里伙山花园景观设计，“让地方变得更好”</title>
       <link>https://www.archiposition.com/items/122ce0ce94</link>
@@ -862,51 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="长沙智谷·数字空间站｜地方工作室+湖南大学设计研究院有限公司" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>阳江市综合文化中心｜华工设计院+一方设计集团有限公司</title>
-      <link>https://www.archiposition.com/items/20250821025627</link>
-      <guid isPermaLink="false">archiposition-20250821025627</guid>
-      <pubDate>Thu, 21 Aug 2025 15:02:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="阳江市综合文化中心｜华工设计院+一方设计集团有限公司" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>东南村8号｜xiān氙建筑</title>
-      <link>https://www.archiposition.com/items/20250821024122</link>
-      <guid isPermaLink="false">archiposition-20250821024122</guid>
-      <pubDate>Thu, 21 Aug 2025 14:54:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="东南村8号｜xiān氙建筑" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>快讯｜2025年两院院士增选候选人名单出炉，冯正功 、韩冬青、胡越、李满春、李雄、孙澄、孙一民、王凯、王向荣、伍江、袁烽、张杰、张利、张鹏举等入选</title>
-      <link>https://www.archiposition.com/items/20250820100915</link>
-      <guid isPermaLink="false">archiposition-20250820100915</guid>
-      <pubDate>Wed, 20 Aug 2025 23:13:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/20250820224154youfang10.png" alt="快讯｜2025年两院院士增选候选人名单出炉，冯正功 、韩冬青、胡越、李满春、李雄、孙澄、孙一民、王凯、王向荣、伍江、袁烽、张杰、张利、张鹏举等入选" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/20250820224154youfang10.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>孟凡浩-line+新作：杭州·西溪印，极限容量下的院落空间实验</title>
-      <link>https://www.archiposition.com/items/b0d3891242</link>
-      <guid isPermaLink="false">archiposition-b0d3891242</guid>
-      <pubDate>Mon, 11 Aug 2025 11:51:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/91754881626.png" alt="孟凡浩-line+新作：杭州·西溪印，极限容量下的院落空间实验" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：line+建筑事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/91754881626.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>喜叻空间研究2.0：明亮温暖包容的办公室 / 喜叻空间研究</title>
-      <link>https://www.archiposition.com/items/2d7571d563</link>
-      <guid isPermaLink="false">archiposition-2d7571d563</guid>
-      <pubDate>Mon, 11 Aug 2025 14:28:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/101754884264.jpg" alt="喜叻空间研究2.0：明亮温暖包容的办公室 / 喜叻空间研究" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位提供。&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/101754884264.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
