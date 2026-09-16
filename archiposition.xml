@@ -5,9 +5,63 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:54:42 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snøhetta：从世界到亚洲，视角与反思 | INTO ASIA 03实录</title>
+      <link>https://www.archiposition.com/items/20260904040001</link>
+      <guid isPermaLink="false">archiposition-20260904040001</guid>
+      <pubDate>Thu, 24 Apr 2025 18:37:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/20260904161554youfang12.jpg" alt="Snøhetta：从世界到亚洲，视角与反思 | INTO ASIA 03实录" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/20260904161554youfang12.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>INTO ASIA 第3期 | 对话理查德·伍德：视角与反思</title>
+      <link>https://www.archiposition.com/items/20250425112629</link>
+      <guid isPermaLink="false">archiposition-20250425112629</guid>
+      <pubDate>Wed, 21 May 2025 10:38:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="INTO ASIA 第3期 | 对话理查德·伍德：视角与反思" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>西花园花店｜罗宇杰工作室</title>
+      <link>https://www.archiposition.com/items/20260916060012</link>
+      <guid isPermaLink="false">archiposition-20260916060012</guid>
+      <pubDate>Wed, 16 Sep 2026 18:05:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="西花园花店｜罗宇杰工作室" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>gad新作：四堡七堡单元J41404-05地块12班幼儿园，立体游园</title>
+      <link>https://www.archiposition.com/items/893a063b30</link>
+      <guid isPermaLink="false">archiposition-893a063b30</guid>
+      <pubDate>Wed, 16 Sep 2026 13:46:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/81789528161.png" alt="gad新作：四堡七堡单元J41404-05地块12班幼儿园，立体游园" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：gad杰地设计&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/81789528161.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>蘑菇云设计新作：上海张江AI应用商店及服务中心</title>
+      <link>https://www.archiposition.com/items/f8d13c9ba3</link>
+      <guid isPermaLink="false">archiposition-f8d13c9ba3</guid>
+      <pubDate>Wed, 16 Sep 2026 10:39:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/41789524232.jpg" alt="蘑菇云设计新作：上海张江AI应用商店及服务中心" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：蘑菇云设计工作室&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/41789524232.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>博风建筑+华艺新作：龙岗科外集团立雪小学，“大实墙”与“半围院”</title>
+      <link>https://www.archiposition.com/items/4cfb7f05a6</link>
+      <guid isPermaLink="false">archiposition-4cfb7f05a6</guid>
+      <pubDate>Wed, 16 Sep 2026 10:22:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/01789523498.png" alt="博风建筑+华艺新作：龙岗科外集团立雪小学，“大实墙”与“半围院”" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/01789523498.png" type="image/jpeg" />
+    </item>
     <item>
       <title>深圳龙岗区科外集团立雪小学｜上海博风建筑设计咨询有限公司、香港华艺设计顾问（深圳）有限公司</title>
       <link>https://www.archiposition.com/items/20260915052924</link>
@@ -252,15 +306,6 @@
       <enclosure url="https://image.archiposition.com/2026/09/61788849021.png" type="image/jpeg" />
     </item>
     <item>
-      <title>Snøhetta：从世界到亚洲，视角与反思 | INTO ASIA 03实录</title>
-      <link>https://www.archiposition.com/items/20260904040001</link>
-      <guid isPermaLink="false">archiposition-20260904040001</guid>
-      <pubDate>Thu, 24 Apr 2025 18:37:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/20260904161554youfang12.jpg" alt="Snøhetta：从世界到亚洲，视角与反思 | INTO ASIA 03实录" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/09/20260904161554youfang12.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>经典再读253 | 奥特加住宅：巴拉干“藏”得最好的秘密园宅</title>
       <link>https://www.archiposition.com/items/ac32984cef</link>
       <guid isPermaLink="false">archiposition-ac32984cef</guid>
@@ -495,15 +540,6 @@
       <enclosure url="https://image.archiposition.com/2026/04/51775198159.png" type="image/jpeg" />
     </item>
     <item>
-      <title>Heatherwick Studio的亚洲实践：创造未来，别重复过去｜INTO ASIA 04实录</title>
-      <link>https://www.archiposition.com/items/9e038c8ebb</link>
-      <guid isPermaLink="false">archiposition-9e038c8ebb</guid>
-      <pubDate>Sat, 21 Jun 2025 12:01:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/71788233781.jpg" alt="Heatherwick Studio的亚洲实践：创造未来，别重复过去｜INTO ASIA 04实录" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2026/09/71788233781.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>goa新作：中海顺昌玖里，高楼与里弄共同生长</title>
       <link>https://www.archiposition.com/items/9a868c4b57</link>
       <guid isPermaLink="false">archiposition-9a868c4b57</guid>
@@ -531,15 +567,6 @@
       <enclosure url="https://image.archiposition.com/2026/08/01788164144.png" type="image/jpeg" />
     </item>
     <item>
-      <title>2025深圳湾超级总部基地最新进展，40+张图看现场｜有方影像</title>
-      <link>https://www.archiposition.com/items/8cbf88d0c6</link>
-      <guid isPermaLink="false">archiposition-8cbf88d0c6</guid>
-      <pubDate>Fri, 27 Jun 2025 12:09:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/06/20250627095315youfang84.jpg" alt="2025深圳湾超级总部基地最新进展，40+张图看现场｜有方影像" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/06/20250627095315youfang84.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>奥雷·舍人深圳最新方案：后海综合园区</title>
       <link>https://www.archiposition.com/items/bec4c83235</link>
       <guid isPermaLink="false">archiposition-bec4c83235</guid>
@@ -558,13 +585,22 @@
       <enclosure url="https://image.archiposition.com/2025/04/20250423135513youfang51.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>金秋野讲座：圣安赫尔石园和巴拉干的恶地美学｜旅行讲堂07介绍</title>
-      <link>https://www.archiposition.com/items/f6a4bced8d</link>
-      <guid isPermaLink="false">archiposition-f6a4bced8d</guid>
-      <pubDate>Mon, 09 Jun 2025 19:16:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/06/11749455808.png" alt="金秋野讲座：圣安赫尔石园和巴拉干的恶地美学｜旅行讲堂07介绍" /&gt;&lt;/p&gt;
+      <title>王方戟：东工大学派及其关联（第一讲）｜旅行讲堂06介绍</title>
+      <link>https://www.archiposition.com/items/2073c49ebd</link>
+      <guid isPermaLink="false">archiposition-2073c49ebd</guid>
+      <pubDate>Mon, 19 May 2025 16:16:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/91747640257.png" alt="王方戟：东工大学派及其关联（第一讲）｜旅行讲堂06介绍" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/06/11749455808.png" type="image/jpeg" />
+      <enclosure url="https://image.archiposition.com/2025/05/91747640257.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>勒·柯布西耶的高山大海｜旅行讲堂05介绍</title>
+      <link>https://www.archiposition.com/items/e18d16fd35</link>
+      <guid isPermaLink="false">archiposition-e18d16fd35</guid>
+      <pubDate>Wed, 07 May 2025 17:57:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250507175602youfang54.jpg" alt="勒·柯布西耶的高山大海｜旅行讲堂05介绍" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250507175602youfang54.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>芬兰建筑：辽阔，自由，好看｜旅行讲堂04介绍</title>
@@ -594,22 +630,49 @@
       <enclosure url="https://image.archiposition.com/2025/04/81745223598.png" type="image/jpeg" />
     </item>
     <item>
-      <title>仓库即展厅：DS+R等改造伦敦V&amp;A东区库藏馆</title>
-      <link>https://www.archiposition.com/items/20250529034948</link>
-      <guid isPermaLink="false">archiposition-20250529034948</guid>
-      <pubDate>Tue, 03 Jun 2025 14:22:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250529160232youfang24.jpg" alt="仓库即展厅：DS+R等改造伦敦V&amp;amp;A东区库藏馆" /&gt;&lt;/p&gt;
+      <title>金鸡湖风之园驿站：湖边上的眺望 / 矶崎新+胡倩工作室</title>
+      <link>https://www.archiposition.com/items/20240529101815</link>
+      <guid isPermaLink="false">archiposition-20240529101815</guid>
+      <pubDate>Fri, 30 May 2025 17:03:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/05/20240529110133youfang69.jpg" alt="金鸡湖风之园驿站：湖边上的眺望 / 矶崎新+胡倩工作室" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/05/20250529160232youfang24.jpg" type="image/jpeg" />
+      <enclosure url="https://image.archiposition.com/2024/05/20240529110133youfang69.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>非常建筑新作：开门见山，西华大学宜宾产教融合实训基地</title>
-      <link>https://www.archiposition.com/items/cfcdd770e9</link>
-      <guid isPermaLink="false">archiposition-cfcdd770e9</guid>
-      <pubDate>Thu, 19 Jun 2025 14:31:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/06/20250619142347youfang7.jpg" alt="非常建筑新作：开门见山，西华大学宜宾产教融合实训基地" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：非常建筑&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/06/20250619142347youfang7.jpg" type="image/jpeg" />
+      <title>茶卡风 – 茶卡盐湖观光火车站 / 清华院素朴工作室+清华同衡</title>
+      <link>https://www.archiposition.com/items/20250507020803</link>
+      <guid isPermaLink="false">archiposition-20250507020803</guid>
+      <pubDate>Thu, 08 May 2025 14:30:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250507141716youfang28.jpg" alt="茶卡风 – 茶卡盐湖观光火车站 / 清华院素朴工作室+清华同衡" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：清华大学建筑设计研究院素朴工作室、北京清华同衡规划设计研究院&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250507141716youfang28.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>深圳科学技术馆：扎哈事务所+北京建院新作，正式开放</title>
+      <link>https://www.archiposition.com/items/c2f79af6b9</link>
+      <guid isPermaLink="false">archiposition-c2f79af6b9</guid>
+      <pubDate>Tue, 06 May 2025 11:26:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250506114747youfang78.jpg" alt="深圳科学技术馆：扎哈事务所+北京建院新作，正式开放" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250506114747youfang78.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>北京建院项目：北京市大兴区第一中学西校区</title>
+      <link>https://www.archiposition.com/items/20250509102947</link>
+      <guid isPermaLink="false">archiposition-20250509102947</guid>
+      <pubDate>Fri, 23 May 2025 09:34:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250514155732youfang10.jpg" alt="北京建院项目：北京市大兴区第一中学西校区" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位、专项设计单位、用户单位、代建单位、施工总包单位等，形成最少每周2次的服务例会，第一时间解决现场出现的各类问题。设计团队努力克服各方困难，在施工2年多的时间里每周前往2次工地，实施精细化工地服务，全力控制施工过程中的各个环节。设计团队以持续饱满的服务精神和专业的职业素养，得到了教委、校方及参建各方的认可。&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250514155732youfang10.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>2025“威双”获奖作品全公布，DS+R联合体摘取金狮奖</title>
+      <link>https://www.archiposition.com/items/20250512020354</link>
+      <guid isPermaLink="false">archiposition-20250512020354</guid>
+      <pubDate>Mon, 12 May 2025 18:30:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250512141448youfang52.jpg" alt="2025“威双”获奖作品全公布，DS+R联合体摘取金狮奖" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250512141448youfang52.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>中国院胜景几何中心新作：成都安仁大匠之门文化中心，片拱“拟山”</title>
@@ -639,6 +702,15 @@
       <enclosure url="https://image.archiposition.com/2025/08/31754644147.png" type="image/jpeg" />
     </item>
     <item>
+      <title>大舍新作：用16年，造一个曲径迷园</title>
+      <link>https://www.archiposition.com/items/1d1b6edc9b</link>
+      <guid isPermaLink="false">archiposition-1d1b6edc9b</guid>
+      <pubDate>Fri, 16 May 2025 18:23:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250516181101youfang95.jpg" alt="大舍新作：用16年，造一个曲径迷园" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250516181101youfang95.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>公务员建筑师的奇迹：圣若望·博诺教堂</title>
       <link>https://www.archiposition.com/items/6a39dacada</link>
       <guid isPermaLink="false">archiposition-6a39dacada</guid>
@@ -646,6 +718,24 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/04/71744627684.jpg" alt="公务员建筑师的奇迹：圣若望·博诺教堂" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2025/04/71744627684.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>珠海规划科创中心：一栋诚实的混凝土高层 / nsaaa+珠规院</title>
+      <link>https://www.archiposition.com/items/20250513052052</link>
+      <guid isPermaLink="false">archiposition-20250513052052</guid>
+      <pubDate>Fri, 16 May 2025 09:55:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250513173836youfang63.jpg" alt="珠海规划科创中心：一栋诚实的混凝土高层 / nsaaa+珠规院" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：nsaaa+珠海市规划设计研究院&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250513173836youfang63.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MAD欧洲首个建成文化项目：鹿特丹Fenix博物馆</title>
+      <link>https://www.archiposition.com/items/faa84fe5ff</link>
+      <guid isPermaLink="false">archiposition-faa84fe5ff</guid>
+      <pubDate>Thu, 22 May 2025 10:13:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/05/20250522094412youfang33.jpg" alt="MAD欧洲首个建成文化项目：鹿特丹Fenix博物馆" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2025/05/20250522094412youfang33.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>徐卫国新作：3D打印咖啡屋，设计建造新路线｜推介</title>
@@ -817,96 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/61755495936.jpg" alt="HumCustom工厂展厅，以空间为“白胚”实现灵活陈列 / OAOA Studio" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2025/08/61755495936.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>重庆Kuu花店｜Geemo Design治木设计</title>
-      <link>https://www.archiposition.com/items/20250819052648</link>
-      <guid isPermaLink="false">archiposition-20250819052648</guid>
-      <pubDate>Tue, 19 Aug 2025 17:38:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="重庆Kuu花店｜Geemo Design治木设计" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>大乐之野·黄龙岛灯塔酒店：时间的三重维度——自然、历史、人 / WJ STUDIO万境设计</title>
-      <link>https://www.archiposition.com/items/22130f90bc</link>
-      <guid isPermaLink="false">archiposition-22130f90bc</guid>
-      <pubDate>Fri, 22 Aug 2025 09:40:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/11755768314.jpg" alt="大乐之野·黄龙岛灯塔酒店：时间的三重维度——自然、历史、人 / WJ STUDIO万境设计" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/11755768314.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>青山学堂，成长中的乡村教育空间 / MOMENTUM Architects</title>
-      <link>https://www.archiposition.com/items/84431704ee</link>
-      <guid isPermaLink="false">archiposition-84431704ee</guid>
-      <pubDate>Tue, 26 Aug 2025 15:45:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/11756115847.jpg" alt="青山学堂，成长中的乡村教育空间 / MOMENTUM Architects" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：MOMENTUM建筑设计事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/11756115847.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>佛山官窑文化艺术中心（官窑三宝）｜灰空间建筑事务所</title>
-      <link>https://www.archiposition.com/items/20250827050534</link>
-      <guid isPermaLink="false">archiposition-20250827050534</guid>
-      <pubDate>Wed, 27 Aug 2025 17:20:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="佛山官窑文化艺术中心（官窑三宝）｜灰空间建筑事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>长物建筑即将建成：成都海洋路中学，可扩展、停留、偶遇的微型城市</title>
-      <link>https://www.archiposition.com/items/a33b6d2df2</link>
-      <guid isPermaLink="false">archiposition-a33b6d2df2</guid>
-      <pubDate>Fri, 22 Aug 2025 09:40:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/20250821155705youfang18.gif" alt="长物建筑即将建成：成都海洋路中学，可扩展、停留、偶遇的微型城市" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：长物建筑事务所&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/20250821155705youfang18.gif" type="image/jpeg" />
-    </item>
-    <item>
-      <title>隈研吾事务所+Wowhaus新作：俄罗斯喀山卡马尔剧院，湖上冰花</title>
-      <link>https://www.archiposition.com/items/20250822023434</link>
-      <guid isPermaLink="false">archiposition-20250822023434</guid>
-      <pubDate>Wed, 27 Aug 2025 14:19:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/20250822145417youfang13.png" alt="隈研吾事务所+Wowhaus新作：俄罗斯喀山卡马尔剧院，湖上冰花" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/20250822145417youfang13.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>墩岙乡村治理学院，一片翻飞的屋面 / 本末联合建筑</title>
-      <link>https://www.archiposition.com/items/b142bca36c</link>
-      <guid isPermaLink="false">archiposition-b142bca36c</guid>
-      <pubDate>Tue, 26 Aug 2025 10:28:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/61756173307.jpg" alt="墩岙乡村治理学院，一片翻飞的屋面 / 本末联合建筑" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：本末联合建筑&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/61756173307.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>武汉同济医院军山院区 / 中南建筑设计院</title>
-      <link>https://www.archiposition.com/items/cdb42ede21</link>
-      <guid isPermaLink="false">archiposition-cdb42ede21</guid>
-      <pubDate>Wed, 27 Aug 2025 10:51:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/51756261381.png" alt="武汉同济医院军山院区 / 中南建筑设计院" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：中南建筑设计院股份有限公司&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/51756261381.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>湘湖未来学校，第四代学校 / 中国联合工程有限公司</title>
-      <link>https://www.archiposition.com/items/6e2e99a914</link>
-      <guid isPermaLink="false">archiposition-6e2e99a914</guid>
-      <pubDate>Tue, 26 Aug 2025 15:43:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/91755850470.jpg" alt="湘湖未来学校，第四代学校 / 中国联合工程有限公司" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：中国联合工程有限公司&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/91755850470.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>杭州市第一人民医院桐庐医院｜浙江大学建筑设计研究院</title>
-      <link>https://www.archiposition.com/items/20250826115220</link>
-      <guid isPermaLink="false">archiposition-20250826115220</guid>
-      <pubDate>Tue, 26 Aug 2025 15:24:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="杭州市第一人民医院桐庐医院｜浙江大学建筑设计研究院" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
