@@ -5,9 +5,18 @@
     <link>https://www.archiposition.com/</link>
     <description>有方 - 高品质建筑资讯门户。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:54:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:03:09 GMT</lastBuildDate>
     <generator>archiposition-rss GitHub Action</generator>
     <atom:link href="https://example.com/archiposition.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建筑地图298｜云南：大地之歌</title>
+      <link>https://www.archiposition.com/items/75cf478f4b</link>
+      <guid isPermaLink="false">archiposition-75cf478f4b</guid>
+      <pubDate>Thu, 17 Sep 2026 17:02:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/11789633328.png" alt="建筑地图298｜云南：大地之歌" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/11789633328.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Snøhetta：从世界到亚洲，视角与反思 | INTO ASIA 03实录</title>
       <link>https://www.archiposition.com/items/20260904040001</link>
@@ -16,6 +25,24 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/20260904161554youfang12.jpg" alt="Snøhetta：从世界到亚洲，视角与反思 | INTO ASIA 03实录" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2026/09/20260904161554youfang12.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>大理宜兰度假酒店，面山览海 / 古早设计</title>
+      <link>https://www.archiposition.com/items/5c26825b9a</link>
+      <guid isPermaLink="false">archiposition-5c26825b9a</guid>
+      <pubDate>Thu, 17 Sep 2026 14:18:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/21789610228.png" alt="大理宜兰度假酒店，面山览海 / 古早设计" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位：西安古早平喆装饰设计有限公司&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/21789610228.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>NBBJ新作：上海科技投资大厦综合开发，科技“村落”</title>
+      <link>https://www.archiposition.com/items/ebc1bf27b5</link>
+      <guid isPermaLink="false">archiposition-ebc1bf27b5</guid>
+      <pubDate>Thu, 17 Sep 2026 14:08:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2026/09/41789614107.png" alt="NBBJ新作：上海科技投资大厦综合开发，科技“村落”" /&gt;&lt;/p&gt;
+&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
+      <enclosure url="https://image.archiposition.com/2026/09/41789614107.png" type="image/jpeg" />
     </item>
     <item>
       <title>INTO ASIA 第3期 | 对话理查德·伍德：视角与反思</title>
@@ -880,33 +907,6 @@
       <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/101756286586.jpg" alt="佛山官窑文化艺术中心，以陶为线索的建筑微更新 / 灰空间建筑事务所" /&gt;&lt;/p&gt;
 &lt;p&gt;设计单位：灰空间建筑事务所&lt;/p&gt;</description>
       <enclosure url="https://image.archiposition.com/2025/08/101756286586.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>昆山玉山广场站地铁出入口及景观配套设施｜中国建筑设计研究院有限公司 本土设计研究中心</title>
-      <link>https://www.archiposition.com/items/20250828042324</link>
-      <guid isPermaLink="false">archiposition-20250828042324</guid>
-      <pubDate>Thu, 28 Aug 2025 16:34:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" alt="昆山玉山广场站地铁出入口及景观配套设施｜中国建筑设计研究院有限公司 本土设计研究中心" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2024/11/20241114153711youfang59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HPP新作：珠海华润银行总部大厦室内设计</title>
-      <link>https://www.archiposition.com/items/61e57b0984</link>
-      <guid isPermaLink="false">archiposition-61e57b0984</guid>
-      <pubDate>Wed, 27 Aug 2025 16:31:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/91756280239.jpg" alt="HPP新作：珠海华润银行总部大厦室内设计" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位：HPP&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/91756280239.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HumCustom工厂展厅，以空间为“白胚”实现灵活陈列 / OAOA Studio</title>
-      <link>https://www.archiposition.com/items/126ecbe2a1</link>
-      <guid isPermaLink="false">archiposition-126ecbe2a1</guid>
-      <pubDate>Thu, 21 Aug 2025 15:03:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://image.archiposition.com/2025/08/61755495936.jpg" alt="HumCustom工厂展厅，以空间为“白胚”实现灵活陈列 / OAOA Studio" /&gt;&lt;/p&gt;
-&lt;p&gt;设计单位”格式命名；&lt;/p&gt;</description>
-      <enclosure url="https://image.archiposition.com/2025/08/61755495936.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
